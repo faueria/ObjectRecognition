@@ -3,7 +3,6 @@
 ## info
 This was created by Nihal Sandadi
 I used Visual Studio Community Edition 2022 with c++ 17 and Windows 11
-I am using 2 travel days
 
 ## How to run:
 you need a webcam which is pointed downwards to a white background and some example objects. 
@@ -45,3 +44,4 @@ Bottom: CNN embeddings (150K+ features)
 K-means sampling fraction
 HSV channel weights
 Blur parameters
+
